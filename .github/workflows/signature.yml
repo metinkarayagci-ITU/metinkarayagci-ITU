@@ -1,0 +1,31 @@
+name: Update signature
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/quotes.json'
+      - 'scripts/generate-signature.js'
+      - '.github/workflows/signature.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/generate-signature.js
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add signature.svg
+          git diff --staged --quiet || git commit -m "Rotate signature quote"
+          git push

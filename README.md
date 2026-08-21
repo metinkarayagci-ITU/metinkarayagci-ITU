@@ -57,6 +57,16 @@ No pinned project yet — coming soon.
 
 <div align="center">
 
+<img src="./signature.svg" alt="signature" width="600">
+
+<sub>Rotates automatically every few hours · sourced Atatürk quotes</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <sub>© 2026 Metin Karayağcı · full experience at <a href="https://metinkarayagci-itu.github.io/">metinkarayagci-itu.github.io</a></sub>
 
 </div>
