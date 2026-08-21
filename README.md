@@ -25,10 +25,10 @@ Learning in public — numbers, algorithms, and the notes in between.
 
 ## About
 
-- 🎓 Studying Mathematics Engineering at Istanbul Technical University (İTÜ)
-- 🐍 Working with Python, algorithms, and mathematical problem solving
-- ✍️ Getting ready to write on Medium — no posts published yet, roadmap below
-- 🌐 Full interactive version of this profile: **[metinkarayagci-itu.github.io](https://metinkarayagci-itu.github.io/)**
+- Studying Mathematics Engineering at Istanbul Technical University (İTÜ)
+- Working with Python, algorithms, and mathematical problem solving
+- Getting ready to write on Medium — no posts published yet, roadmap below
+- Full interactive version of this profile: **[metinkarayagci-itu.github.io](https://metinkarayagci-itu.github.io/)**
 
 <br>
 
