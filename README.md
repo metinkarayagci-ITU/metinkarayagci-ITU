@@ -30,7 +30,6 @@ Learning in public — numbers, algorithms, and the notes in between.
 <sub>Gazi Mustafa Kemal Atatürk</sub>
 </td>
 <td valign="middle">
-<sub><b>İMZA</b></sub><br><br>
 <img src="signature.svg" width="480" alt="signature">
 </td>
 </tr>
