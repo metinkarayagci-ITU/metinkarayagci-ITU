@@ -23,6 +23,21 @@ Learning in public — numbers, algorithms, and the notes in between.
 
 <br>
 
+<table>
+<tr>
+<td width="180" align="center" valign="top">
+<img src="signature-portrait.png" width="160" alt="Gazi Mustafa Kemal Atatürk"><br>
+<sub>Gazi Mustafa Kemal Atatürk</sub>
+</td>
+<td valign="middle">
+<sub><b>İMZA</b></sub><br><br>
+<img src="signature.svg" width="480" alt="signature">
+</td>
+</tr>
+</table>
+
+<br>
+
 ## About
 
 - Studying Mathematics Engineering at Istanbul Technical University (İTÜ)
@@ -52,16 +67,6 @@ Planned topics for Medium. Nothing published yet — everything below is in the 
 ## Projects
 
 No pinned project yet — coming soon.
-
-<br>
-
-<div align="center">
-
-<img src="./signature.svg" alt="signature" width="600">
-
-<sub>Rotates automatically every few hours · sourced Atatürk quotes</sub>
-
-</div>
 
 <br>
 
