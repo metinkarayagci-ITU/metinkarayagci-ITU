@@ -4,7 +4,13 @@
 
 **İTÜ Matematik Mühendisliği**
 
-Learning in public — numbers, algorithms, and the notes in between.
+<br>
+
+<img src="signature-portrait.png" width="240" alt="Gazi Mustafa Kemal Atatürk">
+<br>
+<sub>Gazi Mustafa Kemal Atatürk</sub>
+
+<br><br>
 
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-metinkarayagci--itu.github.io-4f8cff?style=for-the-badge&labelColor=0d1220)](https://metinkarayagci-itu.github.io/)
 
@@ -14,26 +20,22 @@ Learning in public — numbers, algorithms, and the notes in between.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=8fb4ff)
-![Git](https://img.shields.io/badge/Git-0d1220?style=flat-square&logo=git&logoColor=8fb4ff)
-![Mathematics](https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220)
-![Algorithms](https://img.shields.io/badge/Algorithms-0d1220?style=flat-square&color=0d1220&labelColor=0d1220)
+<img src="https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=8fb4ff" title="Python ile programlama ve script yazma">
+<img src="https://img.shields.io/badge/Git-0d1220?style=flat-square&logo=git&logoColor=8fb4ff" title="Versiyon kontrolü">
+<img src="https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="İTÜ Matematik Mühendisliği ders içeriği">
+<img src="https://img.shields.io/badge/Algorithms-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Problem çözme ve algoritma tasarımı">
+
+<sub>Üzerine gel, ne olduğunu gör — bildikçe büyüyen bir liste.</sub>
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="180" align="center" valign="top">
-<img src="signature-portrait.png" width="160" alt="Gazi Mustafa Kemal Atatürk"><br>
-<sub>Gazi Mustafa Kemal Atatürk</sub>
-</td>
-<td valign="middle">
+<div align="center">
+
 <img src="signature.svg" width="480" alt="signature">
-</td>
-</tr>
-</table>
+
+</div>
 
 <br>
 
