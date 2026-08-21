@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=8fb4ff" title="Python ile programlama ve script yazma">
 <img src="https://img.shields.io/badge/Git-0d1220?style=flat-square&logo=git&logoColor=8fb4ff" title="Versiyon kontrolü">
-<img src="https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="İTÜ Matematik Mühendisliği ders içeriği">
+<img src="https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Matematik I, Lineer Cebir, Soyut Matematik — İTÜ 1. dönem">
 <img src="https://img.shields.io/badge/Algorithms-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Problem çözme ve algoritma tasarımı">
 
 <sub>Üzerine gel, ne olduğunu gör — bildikçe büyüyen bir liste.</sub>
@@ -56,7 +56,7 @@ Planned topics for Medium. Nothing published yet — everything below is in the 
 > ○ Planned post &nbsp;·&nbsp; ○ Planned post &nbsp;·&nbsp; ○ Planned post
 
 **İTÜ Mathematics Engineering — 1st Semester**
-> ○ Planned post &nbsp;·&nbsp; ○ Planned post &nbsp;·&nbsp; ○ Planned post
+> ○ Mathematics I &nbsp;·&nbsp; ○ Linear Algebra &nbsp;·&nbsp; ○ Abstract Mathematics &nbsp;·&nbsp; ○ Physics I &nbsp;·&nbsp; ○ Physics I Laboratory &nbsp;·&nbsp; ○ Introduction to Programming &nbsp;·&nbsp; ○ Introduction to Mathematics Engineering & Ethics
 
 **Algorithms**
 > ○ Planned post &nbsp;·&nbsp; ○ Planned post &nbsp;·&nbsp; ○ Planned post
