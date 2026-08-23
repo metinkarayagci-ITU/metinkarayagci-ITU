@@ -57,7 +57,7 @@ const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${he
   <rect x="1" y="1" width="${width - 2}" height="${height - 2}" rx="14" fill="url(#glow)"/>
   <rect x="1" y="1" width="${width - 2}" height="${height - 2}" rx="14" fill="none" stroke="url(#border)" stroke-width="1.4"/>
   <rect x="0" y="24" width="4" height="${height - 48}" rx="2" fill="url(#border)"/>
-  <text x="40" y="42" font-family="Verdana, sans-serif" font-size="11" letter-spacing="2" fill="#d4af37">İMZA</text>
+  <text x="40" y="42" font-family="Verdana, sans-serif" font-size="11" letter-spacing="2" fill="#d4af37">SIGNATURE</text>
   ${textLines}
   <text x="40" y="${height - 20}" font-family="Verdana, sans-serif" font-size="13" fill="#5a6278">&#8212; ${escapeXml(quote.src)}</text>
 </svg>
