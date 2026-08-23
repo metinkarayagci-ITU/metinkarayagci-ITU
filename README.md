@@ -2,17 +2,11 @@
 
 # Metin Karayağcı
 
-**İTÜ Matematik Mühendisliği**
+**İTÜ Mathematics Engineering**
 
 <br>
 
-<img src="signature-portrait.png" width="240" alt="Gazi Mustafa Kemal Atatürk">
-<br>
-<sub>Gazi Mustafa Kemal Atatürk</sub>
-
-<br><br>
-
-[![Personal Site](https://img.shields.io/badge/Personal%20Site-metinkarayagci--itu.github.io-4f8cff?style=for-the-badge&labelColor=0d1220)](https://metinkarayagci-itu.github.io/)
+<img src="banner.png" width="100%" alt="Atatürk">
 
 </div>
 
@@ -20,12 +14,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=8fb4ff" title="Python ile programlama ve script yazma">
-<img src="https://img.shields.io/badge/Git-0d1220?style=flat-square&logo=git&logoColor=8fb4ff" title="Versiyon kontrolü">
-<img src="https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Matematik I, Lineer Cebir, Soyut Matematik — İTÜ 1. dönem">
-<img src="https://img.shields.io/badge/Algorithms-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Problem çözme ve algoritma tasarımı">
+<img src="https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=8fb4ff" title="Programming & scripting with Python">
+<img src="https://img.shields.io/badge/Git-0d1220?style=flat-square&logo=git&logoColor=8fb4ff" title="Version control">
+<img src="https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Mathematics I, Linear Algebra, Abstract Mathematics — İTÜ 1st semester">
+<img src="https://img.shields.io/badge/Algorithms-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Problem solving & algorithm design">
 
-<sub>Üzerine gel, ne olduğunu gör — bildikçe büyüyen bir liste.</sub>
+<sub>Hover to see what it means — a list that grows as I learn.</sub>
 
 </div>
 
@@ -44,7 +38,6 @@
 - Studying Mathematics Engineering at Istanbul Technical University (İTÜ)
 - Working with Python, algorithms, and mathematical problem solving
 - Getting ready to write on Medium — no posts published yet, roadmap below
-- Full interactive version of this profile: **[metinkarayagci-itu.github.io](https://metinkarayagci-itu.github.io/)**
 
 <br>
 
@@ -73,6 +66,6 @@ No pinned project yet — coming soon.
 
 <div align="center">
 
-<sub>© 2026 Metin Karayağcı · full experience at <a href="https://metinkarayagci-itu.github.io/">metinkarayagci-itu.github.io</a></sub>
+<sub>© 2026 Metin Karayağcı</sub>
 
 </div>
