@@ -1,0 +1,23 @@
+<svg width="148" height="34" viewBox="0 0 148 34" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6dd8c"/>
+      <stop offset="45%" stop-color="#c9962f"/>
+      <stop offset="100%" stop-color="#8a6a1e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="10%" cy="15%" r="90%">
+      <stop offset="0%" stop-color="#4f8cff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#4f8cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="146" height="32" rx="16" fill="#05070d"/>
+  <rect x="1" y="1" width="146" height="32" rx="16" fill="url(#glow)"/>
+  <rect x="1" y="1" width="146" height="32" rx="16" fill="none" stroke="url(#border)" stroke-width="1.3"/>
+  <g transform="translate(13,8)" fill="none" stroke="#4f8cff" stroke-width="1.3">
+    <rect x="6" y="1" width="4.5" height="4.5" rx="1.1"/>
+    <rect x="1" y="12" width="4.5" height="4.5" rx="1.1"/>
+    <rect x="11" y="12" width="4.5" height="4.5" rx="1.1"/>
+    <path d="M8.25 5.5v2.7M8.25 8.2L3.3 12M8.25 8.2l4.95 3.8"/>
+  </g>
+  <text x="37" y="21.5" font-family="Verdana, sans-serif" font-size="12.5" fill="#e8ecf5">Algorithms</text>
+</svg>
