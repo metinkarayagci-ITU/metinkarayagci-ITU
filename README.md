@@ -6,6 +6,14 @@
 
 <br>
 
+<img src="divider.svg" width="140" alt="">
+
+<br>
+
+*Mathematics, one proof at a time.*
+
+<br>
+
 <img src="banner.png" width="100%" alt="Atatürk">
 
 </div>
@@ -14,12 +22,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=8fb4ff" title="Programming & scripting with Python">
-<img src="https://img.shields.io/badge/Git-0d1220?style=flat-square&logo=git&logoColor=8fb4ff" title="Version control">
-<img src="https://img.shields.io/badge/Mathematics-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Mathematics I, Linear Algebra, Abstract Mathematics — İTÜ 1st semester">
-<img src="https://img.shields.io/badge/Algorithms-0d1220?style=flat-square&color=0d1220&labelColor=0d1220" title="Problem solving & algorithm design">
+<a href="#python-roadmap"><img src="badges/python.svg" alt="Python"></a>
+<a href="https://github.com/metinkarayagci-ITU?tab=repositories"><img src="badges/git.svg" alt="Git"></a>
+<a href="#math-roadmap"><img src="badges/mathematics.svg" alt="Mathematics"></a>
+<a href="#algo-roadmap"><img src="badges/algorithms.svg" alt="Algorithms"></a>
 
-<sub>Hover to see what it means — a list that grows as I learn.</sub>
+<sub>Click a badge to jump to that topic — Git links to my repositories.</sub>
 
 </div>
 
@@ -48,7 +56,7 @@
 
 Planned topics for Medium. Nothing published yet — click a category to see what's planned.
 
-<details>
+<details id="python-roadmap">
 <summary><b>Python</b> <sub>&nbsp;0 / 3 published</sub></summary>
 <br>
 
@@ -58,7 +66,7 @@ Planned topics for Medium. Nothing published yet — click a category to see wha
 
 </details>
 
-<details>
+<details id="math-roadmap">
 <summary><b>İTÜ Mathematics Engineering — 1st Semester</b> <sub>&nbsp;0 / 7 published</sub></summary>
 <br>
 
@@ -72,7 +80,7 @@ Planned topics for Medium. Nothing published yet — click a category to see wha
 
 </details>
 
-<details>
+<details id="algo-roadmap">
 <summary><b>Algorithms</b> <sub>&nbsp;0 / 3 published</sub></summary>
 <br>
 
