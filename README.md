@@ -35,24 +35,52 @@
 
 ## About
 
-- Studying Mathematics Engineering at Istanbul Technical University (İTÜ)
-- Working with Python, algorithms, and mathematical problem solving
-- Getting ready to write on Medium — no posts published yet, roadmap below
+<table>
+<tr><td><b>Institution</b></td><td>İTÜ — Istanbul Technical University</td></tr>
+<tr><td><b>Program</b></td><td>Mathematics Engineering</td></tr>
+<tr><td><b>Focus</b></td><td>Python, algorithms, mathematical problem solving</td></tr>
+<tr><td><b>Writing</b></td><td>Getting ready to post on Medium — roadmap below</td></tr>
+</table>
 
 <br>
 
 ## Writing Roadmap
 
-Planned topics for Medium. Nothing published yet — everything below is in the planning stage.
+Planned topics for Medium. Nothing published yet — click a category to see what's planned.
 
-**Python**
-> ○ Planned post &nbsp;·&nbsp; ○ Planned post &nbsp;·&nbsp; ○ Planned post
+<details>
+<summary><b>Python</b> <sub>&nbsp;0 / 3 published</sub></summary>
+<br>
 
-**İTÜ Mathematics Engineering — 1st Semester**
-> ○ Mathematics I &nbsp;·&nbsp; ○ Linear Algebra &nbsp;·&nbsp; ○ Abstract Mathematics &nbsp;·&nbsp; ○ Physics I &nbsp;·&nbsp; ○ Physics I Laboratory &nbsp;·&nbsp; ○ Introduction to Programming &nbsp;·&nbsp; ○ Introduction to Mathematics Engineering & Ethics
+○ Planned post<br>
+○ Planned post<br>
+○ Planned post
 
-**Algorithms**
-> ○ Planned post &nbsp;·&nbsp; ○ Planned post &nbsp;·&nbsp; ○ Planned post
+</details>
+
+<details>
+<summary><b>İTÜ Mathematics Engineering — 1st Semester</b> <sub>&nbsp;0 / 7 published</sub></summary>
+<br>
+
+○ Mathematics I<br>
+○ Linear Algebra<br>
+○ Abstract Mathematics<br>
+○ Physics I<br>
+○ Physics I Laboratory<br>
+○ Introduction to Programming<br>
+○ Introduction to Mathematics Engineering & Ethics
+
+</details>
+
+<details>
+<summary><b>Algorithms</b> <sub>&nbsp;0 / 3 published</sub></summary>
+<br>
+
+○ Planned post<br>
+○ Planned post<br>
+○ Planned post
+
+</details>
 
 <sub>● published &nbsp;&nbsp; ○ planned</sub>
 
@@ -60,7 +88,8 @@ Planned topics for Medium. Nothing published yet — everything below is in the 
 
 ## Projects
 
-No pinned project yet — coming soon.
+> [!NOTE]
+> No pinned project yet — coming soon.
 
 <br>
 
