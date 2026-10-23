@@ -38,7 +38,6 @@ I study mathematics engineering at Istanbul Technical University. I'm interested
 |---|---|
 | Programming | Python, Git |
 | AI | Claude Code |
-| Learning | Anki |
 
 <br>
 
