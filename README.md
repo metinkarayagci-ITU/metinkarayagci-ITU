@@ -41,6 +41,13 @@ I study mathematics engineering at Istanbul Technical University. I'm interested
 
 <br>
 
+## GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=metinkarayagci-ITU&show_icons=true&theme=transparent" alt="GitHub stats" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinkarayagci-ITU&layout=compact&theme=transparent" alt="Top languages" width="49%">
+
+<br>
+
 ## Now
 
 - **Learning AI properly.** A step-by-step path from "how does a model work" to "how do I use it for real work", with economics and startup examples.
