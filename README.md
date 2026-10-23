@@ -22,19 +22,6 @@
 
 <div align="center">
 
-<a href="#python-roadmap"><img src="badges/python.svg" alt="Python"></a>
-<a href="https://github.com/metinkarayagci-ITU?tab=repositories"><img src="badges/git.svg" alt="Git"></a>
-<a href="#math-roadmap"><img src="badges/mathematics.svg" alt="Mathematics"></a>
-<a href="#algo-roadmap"><img src="badges/algorithms.svg" alt="Algorithms"></a>
-
-<sub>Click a badge to jump to that topic — Git links to my repositories.</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="signature.svg" width="480" alt="signature">
 
 </div>
@@ -43,61 +30,20 @@
 
 ## About
 
-<table>
-<tr><td><b>Institution</b></td><td>İTÜ — Istanbul Technical University</td></tr>
-<tr><td><b>Program</b></td><td>Mathematics Engineering</td></tr>
-<tr><td><b>Focus</b></td><td>Python, algorithms, mathematical problem solving</td></tr>
-<tr><td><b>Writing</b></td><td>Getting ready to post on Medium — roadmap below</td></tr>
-</table>
+I study mathematics engineering at Istanbul Technical University. I care about economics and about building useful software products, and I use mathematics as the way of thinking behind both.
 
 <br>
 
-## Writing Roadmap
+## Now
 
-Planned topics for Medium. Nothing published yet — click a category to see what's planned.
-
-<details id="python-roadmap">
-<summary><b>Python</b> <sub>&nbsp;0 / 3 published</sub></summary>
-<br>
-
-○ Planned post<br>
-○ Planned post<br>
-○ Planned post
-
-</details>
-
-<details id="math-roadmap">
-<summary><b>İTÜ Mathematics Engineering — 1st Semester</b> <sub>&nbsp;0 / 7 published</sub></summary>
-<br>
-
-○ Mathematics I<br>
-○ Linear Algebra<br>
-○ Abstract Mathematics<br>
-○ Physics I<br>
-○ Physics I Laboratory<br>
-○ Introduction to Programming<br>
-○ Introduction to Mathematics Engineering & Ethics
-
-</details>
-
-<details id="algo-roadmap">
-<summary><b>Algorithms</b> <sub>&nbsp;0 / 3 published</sub></summary>
-<br>
-
-○ Planned post<br>
-○ Planned post<br>
-○ Planned post
-
-</details>
-
-<sub>● published &nbsp;&nbsp; ○ planned</sub>
+- **Coursework.** First year at İTÜ: calculus, linear algebra, abstract mathematics. I write my own study material and review decks while I learn.
+- **Learning AI properly.** A step-by-step path from "how does a model work" to "how do I use it for real work", with economics and startup examples.
 
 <br>
 
 ## Projects
 
-> [!NOTE]
-> No pinned project yet — coming soon.
+No public project yet.
 
 <br>
 
