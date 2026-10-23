@@ -24,27 +24,22 @@ I study mathematics engineering at Istanbul Technical University. I'm interested
 
 ## Focus
 
-| Area | Details |
-|---|---|
-| Education | Mathematics Engineering, İTÜ |
-| Interests | Economics, startups, applied mathematics |
-| Building | Software tools for learning and productivity |
+- **Education:** Mathematics Engineering, İTÜ
+- **Interests:** Economics, startups, applied mathematics
+- **Building:** Software tools for learning and productivity
 
 <br>
 
 ## Tools
 
-| Category | Tools |
-|---|---|
-| Programming | Python, Git |
-| AI | Claude Code |
+- **Languages:** Python, C
+- **Tools:** Git, Claude Code
 
 <br>
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=metinkarayagci-ITU&show_icons=true&theme=transparent" alt="GitHub stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinkarayagci-ITU&layout=compact&theme=transparent" alt="Top languages" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=metinkarayagci-ITU&show_icons=true&theme=transparent" alt="GitHub stats">
 
 <br>
 
