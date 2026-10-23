@@ -6,23 +6,11 @@
 
 <br>
 
-<img src="divider.svg" width="140" alt="">
-
-<br>
-
 *Mathematics, one proof at a time.*
 
 <br>
 
 <img src="banner.png" width="100%" alt="Atatürk">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="signature.svg" width="480" alt="signature">
 
 </div>
 
@@ -36,7 +24,6 @@ I study mathematics engineering at Istanbul Technical University. I care about e
 
 ## Now
 
-- **Coursework.** First year at İTÜ: calculus, linear algebra, abstract mathematics. I write my own study material and review decks while I learn.
 - **Learning AI properly.** A step-by-step path from "how does a model work" to "how do I use it for real work", with economics and startup examples.
 
 <br>
