@@ -18,14 +18,14 @@
 
 ## About
 
-I study mathematics engineering at Istanbul Technical University. I'm interested in economics, startups and software, and I use mathematics as the way of thinking behind all three.
+I study mathematics engineering at Istanbul Technical University and I'm building my career in artificial intelligence. Mathematics is the foundation I use to understand how models work.
 
 <br>
 
 ## Focus
 
 - **Education:** Mathematics Engineering, İTÜ
-- **Interests:** Economics, startups, applied mathematics
+- **Interests:** Artificial intelligence, software, applied mathematics
 - **Building:** Software tools for learning and productivity
 
 <br>
@@ -45,7 +45,7 @@ I study mathematics engineering at Istanbul Technical University. I'm interested
 
 ## Now
 
-- **Learning AI properly.** A step-by-step path from "how does a model work" to "how do I use it for real work", with economics and startup examples.
+- **Learning AI step by step.** Starting from the foundations and moving toward real applications.
 
 <br>
 
