@@ -18,14 +18,14 @@
 
 ## About
 
-I study mathematics engineering at Istanbul Technical University and I'm building my career in artificial intelligence. Mathematics is the foundation I use to understand how models work.
+I study mathematics engineering at Istanbul Technical University. Mathematics is the foundation I use to understand how models work.
 
 <br>
 
 ## Focus
 
 - **Education:** Mathematics Engineering, İTÜ
-- **Interests:** Artificial intelligence, software, applied mathematics
+- **Interests:** Software, applied mathematics
 - **Building:** Software tools for learning and productivity
 
 <br>
@@ -40,12 +40,6 @@ I study mathematics engineering at Istanbul Technical University and I'm buildin
 ## GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=metinkarayagci-ITU&show_icons=true&theme=transparent" alt="GitHub stats">
-
-<br>
-
-## Now
-
-- **Learning AI step by step.** Starting from the foundations and moving toward real applications.
 
 <br>
 
